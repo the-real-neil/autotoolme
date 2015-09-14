@@ -1,4 +1,4 @@
-# autotoolme
+# autotoolme [![Build Status](https://travis-ci.org/rubicks/autotoolme.svg?branch=master)](https://travis-ci.org/rubicks/autotoolme)
 
 Install the latest stable autotools---lickety splits, no $hit.
 
