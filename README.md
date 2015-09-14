@@ -1,2 +1,3 @@
 # autotoolme
-just autotool me, dammit
+
+Install the latest stable autotools---lickety splits, no $hit.
