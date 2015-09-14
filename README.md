@@ -1,4 +1,8 @@
-# autotoolme [![Build Status](https://travis-ci.org/rubicks/autotoolme.svg?branch=master)](https://travis-ci.org/rubicks/autotoolme)
+# autotoolme
+
+[![Build Status](https://travis-ci.org/rubicks/autotoolme.svg?branch=master)](https://travis-ci.org/rubicks/autotoolme)
+
+[![Build Status](https://drone.io/github.com/rubicks/autotoolme/status.png)](https://drone.io/github.com/rubicks/autotoolme/latest)
 
 Install the latest stable autotools---lickety splits, no $hit.
 
