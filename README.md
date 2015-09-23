@@ -13,8 +13,8 @@ Install the latest stable autotools---lickety splits, no $hit.
 ### What if I don't trust you?
 
     $ wget https://raw.githubusercontent.com/rubicks/autotoolme/master/autotoolme.sh
-    $ cat autotoolme.sh
-      ...
+    $ $EDITOR autotoolme.sh
+      # look around, confirm trustworthiness
     $ chmod u+x ./autotoolme.sh && ./autotoolme.sh
 
 ### Credits
