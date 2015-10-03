@@ -1,8 +1,8 @@
 # autotoolme
 
-[![Build Status](https://travis-ci.org/rubicks/autotoolme.svg?branch=master)](https://travis-ci.org/rubicks/autotoolme)
-
 [![Build Status](https://drone.io/github.com/rubicks/autotoolme/status.png)](https://drone.io/github.com/rubicks/autotoolme/latest)
+
+[![Build Status](https://travis-ci.org/rubicks/autotoolme.svg)](https://travis-ci.org/rubicks/autotoolme)
 
 [![Circle CI](https://circleci.com/gh/rubicks/autotoolme.png?style=shield)](https://circleci.com/gh/rubicks/autotoolme)
 
