@@ -4,6 +4,8 @@
 
 [![Build Status](https://drone.io/github.com/rubicks/autotoolme/status.png)](https://drone.io/github.com/rubicks/autotoolme/latest)
 
+[![Circle CI](https://circleci.com/gh/rubicks/autotoolme.png?style=shield)](https://circleci.com/gh/rubicks/autotoolme)
+
 Install the latest stable autotools---lickety splits, no $hit.
 
 ### How?
