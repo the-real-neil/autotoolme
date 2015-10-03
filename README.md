@@ -6,6 +6,8 @@
 
 [![Circle CI](https://circleci.com/gh/rubicks/autotoolme.png?style=shield)](https://circleci.com/gh/rubicks/autotoolme)
 
+[![Image Layers](https://badge.imagelayers.io/rubicks/autotoolme.svg)](https://imagelayers.io/?images=rubicks/autotoolme)
+
 Install the latest stable autotools---lickety splits, no $hit.
 
 ### How?
