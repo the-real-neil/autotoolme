@@ -1,0 +1,8 @@
+# github.com/rubicks/autotoolme/circle.yml
+machine:
+  services:
+    - docker
+
+test:
+  post:
+    - docker build -t $CIRCLE_PROJECT_REPONAME . && docker run -it $CIRCLE_PROJECT_REPONAME
