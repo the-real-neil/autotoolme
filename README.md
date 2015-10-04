@@ -22,4 +22,7 @@ Install the latest stable autotools---lickety splits, no $hit.
     $ chmod u+x ./autotoolme.sh && ./autotoolme.sh
 
 ### Credits
-[Peanuts](http://munchpress.com/author/peanuts/) did [something](http://munchpress.com/installing-autoconf-automake-libtool-on-mac-osx-mountain-lion/) like this before I did.
+[Peanuts][peanuts] did [something like this][macosx-autotools] before I did.
+
+[peanuts]:http://munchpress.com/author/peanuts/
+[macosx-autotools]:http://munchpress.com/installing-autoconf-automake-libtool-on-mac-osx-mountain-lion/
