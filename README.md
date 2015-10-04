@@ -12,7 +12,7 @@ Install the latest stable autotools---lickety splits, no $hit.
 
 ### How?
 
-    $ wget -O- https://raw.githubusercontent.com/rubicks/autotoolme/master/autotoolme.sh | sh
+    $ wget -qO- https://raw.githubusercontent.com/rubicks/autotoolme/master/autotoolme.sh | sh
 
 ### What if I don't trust you?
 
@@ -22,4 +22,4 @@ Install the latest stable autotools---lickety splits, no $hit.
     $ chmod u+x ./autotoolme.sh && ./autotoolme.sh
 
 ### Credits
-"Peanuts" [did this](http://munchpress.com/installing-autoconf-automake-libtool-on-mac-osx-mountain-lion/) before I did.
+[Peanuts](http://munchpress.com/author/peanuts/) did [something](http://munchpress.com/installing-autoconf-automake-libtool-on-mac-osx-mountain-lion/) like this before I did.
