@@ -18,11 +18,14 @@ Install the latest stable autotools---lickety splits, no $hit.
 
     $ wget https://raw.githubusercontent.com/rubicks/autotoolme/master/autotoolme.sh
     $ $EDITOR autotoolme.sh
-      # look around, confirm trustworthiness
+        # ...look around, confirm trustworthiness
     $ chmod u+x ./autotoolme.sh && ./autotoolme.sh
 
 ### Credits
-[Peanuts][peanuts] did [something like this][macosx-autotools] before I did.
+
+[peanuts][peanuts] (a.k.a. [omgnuts][omgnuts]) did
+[something like this][macosx-autotools] before I did.
 
 [peanuts]:http://munchpress.com/author/peanuts/
+[omgnuts]:https://github.com/omgnuts/
 [macosx-autotools]:http://munchpress.com/installing-autoconf-automake-libtool-on-mac-osx-mountain-lion/
