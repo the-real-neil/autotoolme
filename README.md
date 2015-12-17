@@ -21,6 +21,12 @@ Install the latest stable autotools---lickety splits, no $hit.
         # ...look around, confirm trustworthiness
     $ chmod u+x ./autotoolme.sh && ./autotoolme.sh
 
+### References
+* https://www.gnu.org/software/autoconf/
+* https://www.gnu.org/software/automake/
+* https://www.gnu.org/software/libtool/
+* https://www.gnu.org/software/autoconf-archive/
+
 ### Credits
 
 [peanuts][peanuts] (a.k.a. [omgnuts][omgnuts]) did
