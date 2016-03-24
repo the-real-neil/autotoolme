@@ -23,7 +23,7 @@ cd libtool-2.4.6
 make install
 
 cd ${_here}
-wget -qO- https://ftp.gnu.org/gnu/autoconf-archive/autoconf-archive-2015.09.25.tar.xz | tar -xJf -
-cd autoconf-archive-2015.09.25
+wget -qO- https://ftp.gnu.org/gnu/autoconf-archive/autoconf-archive-2016.03.20.tar.xz | tar -xJf -
+cd autoconf-archive-2016.03.20
 ./configure
 make install
